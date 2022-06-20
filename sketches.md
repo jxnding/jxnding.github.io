@@ -3,8 +3,8 @@ title: Sketches
 permalink: /sketches/
 layout: default
 ---
-![](/images/sketch_bro.jpg)
-![](/images/sketch_peace.jpg)
-![](/images/sketch_older_lady.jpg)
-![](/images/sketch_lady.jpg)
+![](/images/sketch_bro.JPG)
+![](/images/sketch_peace.JPG)
+![](/images/sketch_older_lady.JPG)
+![](/images/sketch_lady.JPG)
 ![](/images/sketch_woman_cloth.jpg)
